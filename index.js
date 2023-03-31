@@ -12,7 +12,7 @@ function invert(people){
     // Uma dica, você pode utilizar a função prompt para permitir que o usuário digite os
     // nomes dos usuários.
     return people.reverse();
-     
+       
 }
 
 function lerArray(){
